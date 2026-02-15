@@ -1,6 +1,6 @@
 # Behavior Tree Engine 
 
-Very minimal behavior tree implementation written in C++ for the intent of modeling scalable
+Very minimal, very old behavior tree implementation written in C++ for the intent of modeling scalable
 NPC decision-making systems.
 
 ## Overview
@@ -39,4 +39,5 @@ The simulation demonstrates:
 -   NPC chasing over multiple ticks
 -   Transition from chase to attack once in range
 -   Idle fallback behavior
+
 
